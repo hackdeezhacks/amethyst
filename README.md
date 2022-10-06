@@ -93,7 +93,7 @@ All proxies hosted locally, so you don't need any subdomains
 }
 ```
 
-`"branding": "false"` Changes the branding for Corrosion
+`"branding": "Amethyst"` Changes the branding for Corrosion
 
 ## Support
 
