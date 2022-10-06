@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/main/static/assets/icon.png">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/main/public/assets/img/logo.png">
 
 <h1>Amethyst</h1>
 
@@ -18,7 +18,7 @@
          <br>
          <br>
 <a href="https://heroku.com/deploy?template=https://github.com/amethystnetwork-dev/Amethyst"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
-<a href="https://github.com/amethystnetwork-dev/Amethyst/blob/main/deploy/About-Replit.md"><img height="30px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/discontinued/deploy/replit.svg"><img></a>
+<a href="https://github.com/amethystnetwork-dev/Amethyst/blob/main/deploy/About-Replit.md"><img height="30px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/main/deploy/replit.svg"><img></a>
 <a href="https://railway.app/new/template?template=https://github.com/amethystnetwork-dev/Amethyst"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
 
