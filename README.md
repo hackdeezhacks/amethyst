@@ -108,6 +108,30 @@ Captcha is only supported on Ultraviolet
 
 Try using the QR code. Refreshing the page might help
 
+### How to add games?
+
+Here is a template to add games to gs.json:
+
+```json
+{
+  "img": "",
+  "location": "",
+  "title": ""
+}
+```
+
+### How to add apps?
+
+Here is a template to add games to apps.json:
+
+```json
+{
+  "img": "",
+  "location": "",
+  "title": ""
+}
+```
+
 ### Contact
 
 Join our Discord Server [( link above or click here )](#discord-server)
