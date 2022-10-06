@@ -1,10 +1,6 @@
 <div align="center">
 
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/main/public/assets/img/logo.png">
-
-<h1>Amethyst</h1>
-
-<h3>WIP</h3>
+<img src="https://socialify.git.ci/amethystnetwork-dev/Amethyst/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Amethyst" width="640" height="320" />
 
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="https://github.com/amethystnetwork-dev/Amethyst/issues/" alt="GitHub issues"><img src="https://img.shields.io/github/issues/amethystnetwork-dev/Amethyst?style=for-the-badge"></a>
