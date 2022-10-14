@@ -12,8 +12,8 @@
          <a>To get started, press one of the buttons below to deploy Amethyst, or read the docs for manual deployment</a>
          <br>
          <br>
-<a href="https://heroku.com/deploy?template=https://github.com/amethystnetwork-dev/Amethyst"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
-<a href="https://github.com/amethystnetwork-dev/Amethyst/blob/main/deploy/About-Replit.md"><img height="30px" src="https://raw.githubusercontent.com/amethystnetwork-dev/Amethyst/main/deploy/replit.svg"><img></a>
+<a href="https://amethystnetwork-dev.github.io/utils/deploy/heroku?repo=Amethyst"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
+<a href="https://amethystnetwork-dev.github.io/utils/deploy/replit?repo=Amethyst"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
 <a href="https://railway.app/new/template?template=https://github.com/amethystnetwork-dev/Amethyst"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
 
